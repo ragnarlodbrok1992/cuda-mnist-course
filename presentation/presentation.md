@@ -1,15 +1,18 @@
----
+% CUDA + MNIST
+% Maciej Oliwa
+% January 12, 2025
 
-# Welcome to CUDA + MNIST workshop
+# In the morning
 
-Presentation slides (work in progress).
+- CUDA
 
----
+# In the evening
 
-# What is CUDA
+- MNIST
 
-![CUDA logo](./assets/Nvidia_CUDA_logo.jpg "CUDA logo")
+# Conclusion
 
-Content for explanation of CUDA.
-
+<section>
+  <img src="./assets/Nvidia_CUDA_logo.jpg" alt="CUDA logo">
+</section>
 

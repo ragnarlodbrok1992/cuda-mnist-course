@@ -13,6 +13,6 @@ vcvars.bat
 # Output build directory
 build/
 
-# Slidev project for rendering slides
-cuda-slides/
+# Presentation build output directory
+press_build/
 
