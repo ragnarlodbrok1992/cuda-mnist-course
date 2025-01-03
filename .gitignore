@@ -7,6 +7,12 @@ vcvars.bat
 # Visual Studio folder
 .vs/
 
+# Visual Studio Code folder
+.vscode/
+
 # Output build directory
 build/
+
+# Slidev project for rendering slides
+cuda-slides/
 
