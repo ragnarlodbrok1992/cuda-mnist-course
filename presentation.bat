@@ -10,9 +10,9 @@ cp -r ./presentation/assets/ %DIRECTORY%/assets/
 
 pushd %DIRECTORY%
 
-pandoc -s --mathjax -i -t revealjs %PRESENTATION_FILE% -o %OUTPUT_FILE%
+pandoc -s --mathjax -i -t revealjs --variable theme=moon --variable transition=fade %PRESENTATION_FILE% -o %OUTPUT_FILE%
 
 popd
 
-python -m http.server 8080 --directory %DIRECTORY%/
+start python -m http.server 8080 --directory %DIRECTORY%/
 
