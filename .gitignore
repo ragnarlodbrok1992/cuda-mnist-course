@@ -1,4 +1,12 @@
 # C-tags file
 tags
 
+# Bat file for Visual C Variables
+vcvars.bat
+
+# Visual Studio folder
+.vs/
+
+# Output build directory
+build/
 
