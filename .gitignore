@@ -16,3 +16,12 @@ build/
 # Presentation build output directory
 press_build/
 
+# Local personal files
+notes.txt
+
+# Output of visual studio build
+x64/
+
+# Solution folders and files
+CUDA*
+
